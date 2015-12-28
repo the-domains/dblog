@@ -1,0 +1,28 @@
+name: DBLog
+favicon: null
+layout_spectrum: 0.6240114877000451
+typography_spectrum: 0.6190557461231947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.05768656940199435
+  lightness: 0.0625
+  saturation: 0.25
+  rhythmicContrast: 0.75
+purpose: []
